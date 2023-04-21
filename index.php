@@ -18,7 +18,7 @@ session_start();
   <body>
   	<div class="container">
    		<h2 class="text-center text-success
-   		">Welcome Rupesh Bhai, Congratulations on your first successful deployment <?php echo $_SESSION['username']; ?></h2>
+   		">Welcome Yash Bhai, Congratulations on your first successful deployment with Elastic Beanstalk<?php echo $_SESSION['username']; ?></h2>
  		<a href="logout.php">Logout</a>
 
 	</div>
